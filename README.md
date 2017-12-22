@@ -1,4 +1,4 @@
-# Pierre
+# Python小练习
 small examples by Python
-# 使用的Python 2.7.14版本
+# IDE是Pycharm，Python 2.7.14版本
 # 学习Python的过程中，做的练习
